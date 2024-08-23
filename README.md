@@ -36,13 +36,13 @@ Keras : $ pip install --upgrade pip, $ pip install tensorflow, $ pip install tf-
 Open CV :
 diff
 Copy code
-+ git clone https://github.com/opencv/opencv
++ git clone https://github.com/Amann71/TraffiSee
 + git -C opencv checkout <some-tag>
 + # optionally
-+ git clone https://github.com/opencv/opencv_contrib
++ git clone https://github.com/Amann71/TraffiSee
 + git -C opencv_contrib checkout <same-tag-as-opencv> 
 + # optionally
-+ git clone https://github.com/opencv/opencv_extra
++ git clone https://github.com/Amann71/TraffiSee
 + git -C opencv_extra checkout <same-tag-as-opencv>
 Pandas:
 diff
